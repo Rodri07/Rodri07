@@ -8,11 +8,10 @@
 
 ## Sobre mi
 
-- ⭐ Github Star ⭐
-- 📲 Mobile developer
+- 🧑‍🏫 Website developer
 - 🎥 Te enseño a como utilizar diferentes herramientas en [Youtube](https://youtube.com/@SevenDrix?sub_confirmation=1) (+734 subs)
 
-
+## Proyectos *bombitas*
 
 
 
