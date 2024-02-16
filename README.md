@@ -3,7 +3,8 @@
 </div>
 <img src="">
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/a2w41jfl9yJ8-zU4JqRKYQ?style=social&label=Subscribers)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCa2w41jfl9yJ8-zU4JqRKYQ?label=Subcribers)
+
 
 
 <!--
