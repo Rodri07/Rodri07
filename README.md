@@ -1,9 +1,9 @@
-### Hi there 👋
-
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">SevenDrix</a> 👋</h1>
 </div>
 <img src="">
+
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/sevendrix?sub_confirmation=1)
 
 <!--
 **Rodri07/Rodri07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
