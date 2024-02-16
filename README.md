@@ -3,7 +3,8 @@
 </div>
 <img src="">
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/a2w41jfl9yJ8-zU4JqRKYQ)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/a2w41jfl9yJ8-zU4JqRKYQ?style=social&label=Subscribers)
+
 
 <!--
 **Rodri07/Rodri07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
