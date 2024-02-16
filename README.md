@@ -3,8 +3,7 @@
 </div>
 <img src="">
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCa2w41jfl9yJ8-zU4JqRKYQ)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCa2w41jfl9yJ8-zU4JqRKYQ?link=https%3A%2F%2Fyoutube.com%2FSevenDrix%3Fsub_confirmation%3D1)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCa2w41jfl9yJ8-zU4JqRKYQ?link=https%3A%2F%2Fyoutube.com%2F%40SevenDrix%3Fsub_confirmation%3D1)
 
 
 
