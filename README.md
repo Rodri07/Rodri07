@@ -35,17 +35,17 @@
                <br>
 <h3 align="center">Arquitectura MVVM</h3>
 <div align="center">                                       
-<a href="" target="_blank"><img src="" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="" target="_blank"><img src="https://i.imgur.com/e6l6mWz.png" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
-<a href="" target="_blank">
+<a href="https://github.com/Rodri07/Sistema-Olimpaz" target="_blank">
 <img src="">
 </a>
 <a href="" target="_blank">
 <img src="">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>Desarrollo de aplicación Web, sistema de gestion de control de actividades del olimpaz para la Universidad <strong>FREE</strong></p>
 </div>                                                             
 </table>                                                                                 
 </div>
