@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://banca-digital.vercel.app/">
-<img src="https://img.shields.io/badge/Demo%20WebSite-Vercel">
+<img src="https://img.shields.io/badge/Demo%20Web%20Site-s?style=for-the-badge&logo=github&color=blue">
 </a>
 </p>
 <p>Desarrollo de un sitio web para una Banca movil, prototico puedes ver el demo esta en linea <strong>Free</strong> con todo el código disponible para descargar.</p>
