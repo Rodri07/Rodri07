@@ -3,7 +3,8 @@
 </div>
 <img src="https://i.imgur.com/NHJVGVU.png">
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCa2w41jfl9yJ8-zU4JqRKYQ?link=https%3A%2F%2Fyoutube.com%2F%40SevenDrix%3Fsub_confirmation%3D1)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCa2w41jfl9yJ8-zU4JqRKYQ)]
+(https://youtube.com/@SevenDrix?sub_confirmation=1)
 ![GitHub followers](https://img.shields.io/github/followers/Rodri07?style=social&link=https%3A%2F%2Fgithub.com%2FRodri07)
 
 ## Sobre mi
@@ -19,7 +20,7 @@
 <div align="center">
 <a href="" target="_blank"><img src="https://i.imgur.com/KBoEmGw.png" width="400" alt="Curso básico android"></a>
 <p>
-<a href="" target="_blank">
+<a href="https://github.com/Rodri07/Banca-Digital" target="_blank">
 <img src="">
 </a>
 <a href="">
