@@ -3,7 +3,7 @@
 </div>
 <img src="https://i.imgur.com/NHJVGVU.png">
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCa2w41jfl9yJ8-zU4JqRKYQ)(https://youtube.com/@SevenDrix?sub_confirmation=1)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCa2w41jfl9yJ8-zU4JqRKYQ)](https://youtube.com/@SevenDrix?sub_confirmation=1)
 ![GitHub followers](https://img.shields.io/github/followers/Rodri07?style=social&link=https%3A%2F%2Fgithub.com%2FRodri07)
 
 ## Sobre mi
