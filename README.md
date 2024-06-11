@@ -20,7 +20,7 @@
 <a href="" target="_blank"><img src="https://i.imgur.com/KBoEmGw.png" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/Rodri07/Banca-Digital" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/Repositorio-R?style=for-the-badge&logo=github&logoColor=white&color=red">
 </a>
 <a href="https://banca-digital.vercel.app/">
 <img src="https://img.shields.io/badge/Demo%20Web%20Site-s?style=for-the-badge&logo=google&logoColor=white&color=blue">
