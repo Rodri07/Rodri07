@@ -17,10 +17,10 @@
 <td width="50%">
 <h3 align="center">Banca Móvil</h3>
 <div align="center">
-<a href="" target="_blank"><img src="" width="400" alt="Curso básico android"></a>
+<a href="" target="_blank"><img src="https://i.imgur.com/mfh51Q4.png" width="400" alt="Curso básico android"></a>
 <p>
 <a href="" target="_blank">
-<img src="https://i.imgur.com/mfh51Q4.png">
+<img src="">
 </a>
 <a href="">
 <img src="">
