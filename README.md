@@ -15,7 +15,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Banca Móvil</h3>
 <div align="center">
 <a href="" target="_blank"><img src="" width="400" alt="Curso básico android"></a>
 <p>
