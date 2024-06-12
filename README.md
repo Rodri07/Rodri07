@@ -54,7 +54,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Intermedio</h3>
+<h3 align="center">---------------</h3>
 <div align="center">
 <a href="" target="_blank"><img src="" width="400" alt="Curso intermedio Android"></a>
 <p>
@@ -65,13 +65,13 @@
 <img src="">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<p>Lorem ipsum dolor <strong>sit amet consectetur adipisicing elit</strong> -  Placeat dolores doloribus ipsa quam repellat pariatur <strong>voluptate dolorem</strong>. Curs <strong>GRATUITO de 8 horas</strong> fuga officia tenetur ducimus veritatis.</p>
 </div>
                                                                                       
 </td>       
 
 <td width="50%">
-<h3 align="center">Curso Kotlin Multiplatform</h3>
+<h3 align="center">------------------------</h3>
 <div align="center">
 <a href="" target="_blank"><img src="" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
@@ -82,7 +82,7 @@
 <img src="">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+<p>Lorem ipsum dolor <strong>sit amet consectetur adipisicing elit</strong> -  Placeat dolores doloribus ipsa quam repellat pariatur <strong>voluptate dolorem</strong>. Curs <strong>GRATUITO de 8 horas</strong> fuga officia tenetur ducimus veritatis.</p>
 </div>
                                                                                       
 </td>  
