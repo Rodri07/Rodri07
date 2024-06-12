@@ -36,6 +36,7 @@
 <div align="center">                                       
 <a href="" target="_blank"><img src="https://i.imgur.com/uPMdfdW.png" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
+<br>
 <p>
 <a href="https://github.com/Rodri07/Sistema-Olimpaz" target="_blank">
 <img src="https://img.shields.io/badge/Repositorio-R?style=for-the-badge&logo=github&logoColor=white&color=%2303CF22">
