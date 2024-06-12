@@ -23,8 +23,7 @@
 <img src="https://img.shields.io/badge/Repositorio-R?style=for-the-badge&logo=github&logoColor=white&color=%23DA1F08">
 </a>
 <a href="https://banca-digital.vercel.app/">
-<img src="https://img.shields.io/badge/DEMO%20WEBSITE-D?style=for-the-badge&logo=google&logoColor=white&color=%23026FD6
-">
+<img src="https://img.shields.io/badge/DEMO%20WEBSITE-D?style=for-the-badge&logo=google&logoColor=white&color=%23026FD6">
 </a>
 </p>
 <p>Desarrollo de sitio web, para una Banca movil, proyecto Bonbita <strong>Free</strong> con todo el código disponible para descargar.</p>
