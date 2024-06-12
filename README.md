@@ -35,7 +35,7 @@
                <br>
 <h3 align="center">Sistema de Gestión de Control de Actividades</h3>
 <div align="center">                                       
-<a href="" target="_blank"><img src="https://i.imgur.com/e6l6mWz.png" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="" target="_blank"><img src="https://i.imgur.com/uPMdfdW.png" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
 <a href="https://github.com/Rodri07/Sistema-Olimpaz" target="_blank">
