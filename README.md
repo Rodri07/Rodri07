@@ -20,10 +20,11 @@
 <a href="" target="_blank"><img src="https://i.imgur.com/KBoEmGw.png" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/Rodri07/Banca-Digital" target="_blank">
-<img src="https://img.shields.io/badge/Repositorio-R?style=for-the-badge&logo=github&logoColor=white&color=red">
+<img src="https://img.shields.io/badge/Repositorio-R?style=for-the-badge&logo=github&logoColor=white&color=%23DA1F08">
 </a>
 <a href="https://banca-digital.vercel.app/">
-<img src="https://img.shields.io/badge/Demo%20Web%20Site-s?style=for-the-badge&logo=google&logoColor=white&color=blue">
+<img src="https://img.shields.io/badge/DEMO%20WEBSITE-D?style=for-the-badge&logo=google&logoColor=white&color=%23026FD6
+">
 </a>
 </p>
 <p>Desarrollo de sitio web, para una Banca movil, proyecto Bonbita <strong>Free</strong> con todo el código disponible para descargar.</p>
@@ -33,7 +34,7 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Sistema de Gestión de Control de Actividades</h3>
 <div align="center">                                       
 <a href="" target="_blank"><img src="https://i.imgur.com/e6l6mWz.png" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
