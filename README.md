@@ -51,7 +51,7 @@
 </div>
 <br>
 
-
+<!--
 <table>
 <tr>
 <td width="50%">
@@ -90,7 +90,7 @@
 </table>                                                                                 
 </div>
 <br>
-
+-->
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
