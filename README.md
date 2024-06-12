@@ -45,7 +45,7 @@
 <img src="https://img.shields.io/badge/DEMO%20WEBSITE-D?style=for-the-badge&logo=google&logoColor=white&color=%237705C1">
 </a>
 </p>
-</p>Desarrollo de aplicación Web, sistema de gestion de control de actividades del olimpaz para la Universidad <strong>FREE</strong></p>
+</p>Desarrollo de aplicación Web, sistema de gestión de control de actividades del olimpaz para la Universidad <strong>FREE</strong></p>
 </div>                                                             
 </table>                                                                                 
 </div>
